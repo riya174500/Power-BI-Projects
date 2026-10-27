@@ -1,117 +1,152 @@
-# 📊 Power BI Data Analytics Project | Data Technician Bootcamp
+# 📊 Power BI Reporting & Business Intelligence
+
+*A hands-on Power BI portfolio showcasing data transformation, modelling, analysis, and interactive dashboard development using retail and sales datasets.*
+
+---
 
 ## 🚀 Overview
 
-This project showcases the Power BI skills developed during my **Data Technician Bootcamp** through hands-on exercises focused on data preparation, modelling, analysis, and reporting. Working with retail and sales datasets, I transformed raw data into interactive reports and dashboards that support data-driven decision-making.
+This repository demonstrates my Power BI skills through practical data analytics and business intelligence exercises. Working with retail and sales datasets containing product, customer, reseller, region, sales, and target information, I transformed raw data into interactive reports and dashboards that support data-driven decision-making.
 
-The project focused on data transformation using Power Query, building data models, creating DAX calculations, and designing interactive reports that communicate insights through effective data storytelling.
+The project focused on data preparation using Power Query, building data models, creating DAX calculations, and designing visually engaging reports that communicate business performance through effective data storytelling.
 
 ---
 
 ## 🛠️ Skills & Techniques Applied
 
-### 🔄 Data Preparation & Transformation
+### 🔄 Data Transformation & Preparation (Power Query)
 
-✅ Power Query  
-✅ Data Cleaning  
-✅ Data Transformation  
-✅ Data Loading  
-✅ Data Quality Checks  
-✅ Query Management  
+✅ Data Import & Integration  
+✅ Data Cleaning & Shaping  
+✅ Data Type Management  
+✅ Column Renaming & Removal  
+✅ Filtering & Transforming Data  
+✅ Merging & Appending Queries  
+✅ Data Quality Validation  
+✅ Query Optimisation
 
-### ⚙️ Data Modelling & DAX
+### 🗄️ Data Modelling
 
-✅ Data Modelling  
-✅ Relationships Management  
-✅ DAX Calculated Columns  
-✅ DAX Measures  
-✅ Custom Business Metrics  
-✅ Performance Analysis  
+✅ Table Relationships  
+✅ Star Schema Concepts  
+✅ Fact & Dimension Tables  
+✅ Data Model Design  
+✅ Relationship Management  
+✅ Cross-Table Analysis
 
-### 📊 Power BI Reporting
+### 🧮 DAX Calculations
 
-✅ Interactive Dashboards  
-✅ Slicers & Filters  
-✅ KPI Tracking  
-✅ Drill-Down Analysis  
-✅ Report Design  
-✅ Data Exploration  
+✅ Calculated Columns  
+✅ Measures  
+✅ Aggregations  
+✅ KPI Calculations  
+✅ Business Metrics Creation  
+✅ Time Intelligence Concepts
 
-### 📈 Data Visualisation
+### 📊 Data Visualisation
 
 ✅ Bar Charts  
 ✅ Line Charts  
 ✅ Pie Charts  
 ✅ Maps  
-✅ KPI Cards  
-✅ Interactive Reports  
+✅ Cards & KPIs  
+✅ Tables & Matrices  
+✅ Interactive Dashboards
+
+### 🎛️ Interactive Reporting
+
+✅ Slicers  
+✅ Filters  
+✅ Drill-Down Analysis  
+✅ Cross-Filtering  
+✅ Dashboard Navigation  
+✅ User-Focused Report Design
 
 ---
 
 ## 💡 Project Highlights
 
-### 🧹 Data Transformation with Power Query
-
-- Cleaned and transformed raw datasets for analysis
-- Applied data shaping techniques to improve data quality and consistency
-- Created efficient workflows for preparing and managing data
-
-### 🧮 DAX Calculations & Business Metrics
-
-- Developed calculated columns and measures using DAX
-- Created custom business metrics to support reporting requirements
-- Enhanced dashboards through dynamic and reusable calculations
-
-### 📊 Interactive Report Development
-
-- Designed user-friendly reports and dashboards
-- Implemented slicers and filters for dynamic data exploration
-- Enabled users to analyse business performance from multiple perspectives
-
 ### 🏪 Retail & Sales Analytics
 
-- Analysed sales performance and key business metrics
-- Visualised trends, patterns, and KPIs across retail datasets
-- Delivered actionable insights through interactive reporting and dashboards
+- Analysed sales performance across products, regions, and sales teams
+- Tracked revenue trends and key business metrics
+- Compared actual performance against sales targets
+- Identified high-performing products and regions through interactive reporting
+
+### 📦 Product Performance Analysis
+
+- Explored product-level sales and profitability metrics
+- Created visualisations to highlight top-performing categories
+- Evaluated trends and patterns across product lines
+- Supported business insights through KPI-driven reporting
+
+### 🌍 Regional Sales Insights
+
+- Visualised geographic sales performance using map visualisations
+- Compared regional revenue and target achievement
+- Investigated sales trends across multiple territories
+- Enabled dynamic analysis through filters and slicers
+
+### 👥 Sales Team Performance
+
+- Analysed salesperson and reseller activity
+- Measured performance against business objectives
+- Monitored key sales indicators through dashboard reporting
+- Generated insights to support performance evaluation
+
+### 📈 AdventureWorks Dashboard
+
+- Developed interactive business intelligence reports using AdventureWorks datasets
+- Created data models and DAX calculations to support business reporting
+- Designed dashboards that enable users to explore trends and performance metrics
+- Presented complex sales information through intuitive visualisations
 
 ---
 
 ## 🎯 Key Deliverables
 
-✅ Data Cleaning & Transformation  
-✅ Data Modelling  
+✅ Power Query Data Transformation  
+✅ Data Modelling & Relationships  
 ✅ DAX Calculated Columns & Measures  
 ✅ Interactive Reports & Dashboards  
-✅ Dynamic Filters & Slicers  
-✅ Business Intelligence Reporting  
+✅ Sales & Retail Analytics  
+✅ KPI Monitoring & Reporting  
+✅ Business Insight Generation
 
 ---
 
 ## 📖 Data Storytelling
 
-A key focus of this project was transforming data into meaningful stories. By combining clean data models, DAX calculations, interactive visualisations, and intuitive report design, complex retail and sales data was converted into actionable insights that help users identify trends, monitor performance, and make informed decisions.
+A key focus of this work was transforming complex business data into meaningful visual stories. By combining Power Query transformations, DAX calculations, interactive filters, and visual reporting techniques, I created dashboards that enable users to explore trends, monitor performance, and make informed business decisions.
 
 ---
 
-## 🔧 Tools Used
+## 🔧 Tools & Technologies Used
 
-- Microsoft Power BI
-- Power Query
+- Microsoft Power BI Desktop
+- Power Query Editor
 - DAX (Data Analysis Expressions)
-- Interactive Dashboards
 - Data Modelling
-- Filters & Slicers
-- Data Visualisation Techniques
+- Relationship View
+- Interactive Dashboards
+- Sales & Retail Datasets
 
 ---
 
 ## 🏆 Skills Showcase
 
-`Power BI` • `Power Query` • `DAX` • `Data Cleaning` • `Data Transformation` • `Data Modelling` • `Calculated Columns` • `Measures` • `Interactive Dashboards` • `Data Visualisation` • `Business Intelligence` • `Data Storytelling` • `Retail Analytics` • `Sales Reporting`
+`Power BI` • `Power Query` • `DAX` • `Data Modelling` • `Calculated Columns` • `Measures` • `Interactive Dashboards` • `Data Transformation` • `Data Cleaning` • `Business Intelligence` • `KPI Reporting` • `Retail Analytics` • `Sales Analysis` • `Data Storytelling`
 
 ---
 
-⭐ This project demonstrates my ability to clean, model, analyse, and visualise data using Power BI to create interactive reports and dashboards that deliver actionable business insights.
+⭐ This repository demonstrates my ability to transform raw business data into interactive dashboards and actionable insights using Power BI, supporting data-driven decision-making through effective reporting and visualisation.
 
-## My Dashboards
+
+## 📸 Adventure Works Report  
 [Link to My Report](https://app.powerbi.com/view?r=eyJrIjoiYmM2MzQ0NDAtY2U4NS00MzczLTg0YTktOTZjM2RkYzUyZDk3IiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a6dcf18d-a36a-43ff-b325-95a012edcc73" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/73d63965-9fc0-4434-b346-c9649205284b" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/34534f4e-1192-45c0-884d-280f476b72ec" />
