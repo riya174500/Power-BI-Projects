@@ -1,4 +1,4 @@
-# 📊 Power BI Reporting & Business Intelligence
+# 📊 Power BI Reporting & Business Analysis
 
 *A hands-on Power BI portfolio showcasing data transformation, modelling, analysis, and interactive dashboard development using retail and sales datasets.*
 
