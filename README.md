@@ -6,7 +6,7 @@
 
 ## 🚀 Overview
 
-This repository demonstrates my Power BI skills through practical data analytics and business intelligence exercises. Working with retail and sales datasets containing product, customer, reseller, region, sales, and target information, I transformed raw data into interactive reports and dashboards that support data-driven decision-making.
+This repository demonstrates the Power BI skills developed during my Data Technician Bootcamp through practical data analytics and business intelligence exercises. Working with retail and sales datasets containing product, customer, reseller, region, sales, and target information, I transformed raw data into interactive reports and dashboards that support data-driven decision-making.
 
 The project focused on data preparation using Power Query, building data models, creating DAX calculations, and designing visually engaging reports that communicate business performance through effective data storytelling.
 
